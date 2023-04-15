@@ -1,4 +1,5 @@
 # Decast
+![Frame 1000002779 (2)](https://user-images.githubusercontent.com/90386676/232208552-02b5a9d4-f1f6-4bd8-9570-00ea0e2ef83d.png)
 
 
 🌐 Website: https://decast.xyz
@@ -9,7 +10,7 @@ DeCast is an open source and extensive live streaming platform for creators.
 
 As anyone can add whatever modules they want, we can cover 36B hours of view as censorship resistant, non-exploitative, and all-in-one platform.
 
-As the first step, we build modules for token-gate live streaming by subscription with Livepeer, Superfluid and Push.
+As the first step, we build modules for token-gate/stream-gate live streaming by subscription with Livepeer, Superfluid, Sismo and Push.
 
 ## Problem
 
